@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio.helloworlds.co.in/](https://portfolio.helloworlds.co.in/)
 
-- 💬 Ask me about **REACT JS, NodeJS, DSA**
+- 💬 Ask me about **DSA, Java, SpringBoot, Spring Security, JPA, REACT JS, NodeJS**
 
 - 📫 How to reach me **sandeepitgcet@gmail.com**
 
